@@ -1,13 +1,15 @@
 
 <p>
   <a href="https://swupe.mythix.ca/" target="_blank">
-    <img src="swupe-white-svg.svg" alt="Swupe" width="350" height="70">
+    <img src="swupe-white-svg.svg" alt="Swupe" width="350" height="70"></a>
 </p>
 
-A utility-first CSS framework for rapidly building custom user interfaces.
+**A utility-first CSS framework for rapidly building custom user interfaces.**
 
 <p>
-<a href="https://github.com/swupe/swupe/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/tailwindcss.svg" alt="License"></a>
+<a href="https://github.com/swupe/swupe/blob/main/LICENSE"><img src="https://img.shields.io/github/license/swupe/swupe"></a>
+<img src="https://img.shields.io/github/forks/swupe/swupe">
+<img src="https://img.shields.io/github/stars/swupe/swupe">
 </p>
 
 ------
