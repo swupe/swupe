@@ -4,7 +4,7 @@
     <img src="swupe-white-svg.svg" alt="Swupe" width="350" height="70"></a>
 </p>
 
-**A utility-first CSS framework for rapidly building custom user interfaces.**
+**An easy way to style your HTML without the hassle of writing CSS**
 
 <p>
 <a href="https://github.com/swupe/swupe/blob/main/LICENSE"><img src="https://img.shields.io/github/license/swupe/swupe"></a>
