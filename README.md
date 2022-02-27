@@ -16,7 +16,7 @@
 
 ## Documentation
 
-For full documentation, visit [swupe.mythix.ca](https://swupe.mythix.ca).
+For full documentation, visit [swupe.xyz/docs](https://swupe.xyz/docs).
 
 ## Community
 
